@@ -15,4 +15,4 @@ once the user has an API key the user will need to create a file called config.j
 the config.js must contain the following
 
 // API Key  
-const API_KEY = "<API Key>"
+const API_KEY = "user provided API Key"
