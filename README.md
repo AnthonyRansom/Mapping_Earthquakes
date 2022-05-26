@@ -14,5 +14,5 @@ THe user will need a API key from mapbox.com
 once the user has an API key the user will need to create a file called config.js in the Static/js/ folder
 the config.js must contain the following
 
-// API Key
+// API Key  
 const API_KEY = "<API Key>"
